@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Haolong Chen
 
-<!--
-**HaolongChen/HaolongChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer · Systems Enthusiast · Open Source Learner  
 
-Here are some ideas to get you started:
+I love building distributed systems, tinkering with OS internals, and writing clean, production-grade backend code.  
+Currently exploring how operating systems, networks, and databases shape the architecture of modern cloud software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Coding Stats (via WakaTime)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+*(Updated automatically every day with [athul/waka-readme](https://github.com/athul/waka-readme))*
+
+---
+
+### ⚙️ GitHub Analytics
+
+![Haolong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaolongChen&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaolongChen&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaolongChen&theme=tokyonight)
+
+---
+
+### 🕒 Lifetime Coding Time
+
+[![wakatime](https://wakatime.com/badge/user/Haolong.svg)](https://wakatime.com/@Haolong)
+
+---
+
+### 💡 Currently learning
+- Kubernetes & Knative for scalable backend deployment  
+- Advanced systems design & distributed coordination  
+- Frontend integration with real-time backends  
+
+---
+
+### 🌐 Connect
+[LinkedIn](https://linkedin.com) · [Portfolio (soon)](#) · [GitHub](https://github.com/HaolongChen)
+
+---
