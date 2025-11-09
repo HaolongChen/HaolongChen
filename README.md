@@ -17,16 +17,16 @@
 
 ```typescript
 const haolong = {
-    pronouns: "he/him",
-    location: "Earth 🌍",
-    role: "Backend Developer",
-    passions: ["Distributed Systems", "OS Internals", "AI Agents"],
-    currentFocus: [
-        "Building scalable cloud-native applications",
-        "Exploring autonomous AI agents for developer workflows",
-        "Contributing to open source projects"
-    ],
-    lifePhilosophy: "Build systems that scale, learn every day 🚀"
+  pronouns: 'he/him',
+  location: 'Earth 🌍',
+  role: 'Backend Developer',
+  passions: ['Distributed Systems', 'OS Internals', 'AI Agents'],
+  currentFocus: [
+    'Building scalable cloud-native applications',
+    'Exploring autonomous AI agents for developer workflows',
+    'Contributing to open source projects',
+  ],
+  lifePhilosophy: 'Build systems that scale, learn every day 🚀',
 };
 ```
 
@@ -89,6 +89,7 @@ Docker            10 hrs 15 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <div align="center">
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -97,12 +98,14 @@ Docker            10 hrs 15 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### DevOps & Cloud
+
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -110,11 +113,13 @@ Docker            10 hrs 15 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### AI & Tools
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
