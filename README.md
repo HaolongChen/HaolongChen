@@ -4,7 +4,7 @@
 
 ### Backend Developer | Systems & AI-Agent Enthusiast | Open Source Learner
 
-[![wakatime](https://wakatime.com/badge/user/Haolong.svg)](https://wakatime.com/@Haolong)
+[![wakatime](https://wakatime.com/badge/user/6eec0dc4-d5bb-4574-b665-a3493c5c3663.svg)](https://wakatime.com/@Haolong)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/haolong-chen-8b448b2b5/)
 [![GitHub followers](https://img.shields.io/github/followers/HaolongChen?label=Follow&style=social)](https://github.com/HaolongChen)
 
