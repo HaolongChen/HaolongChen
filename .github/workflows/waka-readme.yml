@@ -1,0 +1,35 @@
+name: Update WakaTime stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily at midnight UTC
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update WakaTime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TITLE: true
+          COMMIT_MESSAGE: "Updated WakaTime stats"
+          SECTION_NAME: waka
+          TIMEZONE: "UTC"
+          LANGUAGES_COUNT: 5
+          PROJECTS_COUNT: 5
+          EDITOR_COUNT: 5
+          PLUGIN_COUNT: 5
+          THEME: "default"
+          CUSTOM_TITLE: "My WakaTime Stats"
+          SHOW_TOTAL_TIME: true
+          SHOW_RANKING: false
+          SHOW_GOALS: false
+          GOALS_COUNT: 3
+          INVERT_COLORS: false
+          USE_BADGES: true
+          BADGE_STYLE: "flat"
+          CACHE_DURATION: 3600 # in seconds
+          README_PATH: "README.md"
+          BRANCH: "main"
+          COMMIT_CHANGES: true
