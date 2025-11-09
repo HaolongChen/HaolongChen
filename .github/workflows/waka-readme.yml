@@ -20,22 +20,18 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
+          LANG_COUNT: 10
+          CODE_LANG: typescript
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          COMMIT_MESSAGE: "chore: update WakaTime stats (all time)"
           SECTION_NAME: waka
-          ### content
-          CODE_LANG: typescript # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Haolong Chen # optional
-          AUTHOR_EMAIL: chl123.chenhaolong@gmail.com # optional
-          # you can populate email-id with secrets instead
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: Haolong Chen
+          AUTHOR_EMAIL: chl123.chenhaolong@gmail.com
