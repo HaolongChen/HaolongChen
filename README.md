@@ -9,6 +9,17 @@ Currently exploring how operating systems, networks, databases, and autonomous a
 
 ### 📊 Coding Stats (via WakaTime)
 <!--START_SECTION:waka-->
+
+```txt
+From: 02 November 2025 - To: 09 November 2025
+
+TypeScript        8 hrs 54 mins   ███████████████████░░░░░░   76.61 %
+Docker            36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+JSON              26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Other             26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Bash              25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+```
+
 <!--END_SECTION:waka-->
 
 *(Updated automatically every day with [athul/waka-readme](https://github.com/athul/waka-readme))*
