@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Haolong Chen
 
-Backend Developer · Systems Enthusiast · Open Source Learner  
+Backend Developer. Systems & AI-Agent Enthusiast. Open Source Learner.
 
-I love building distributed systems, tinkering with OS internals, and writing clean, production-grade backend code.  
-Currently exploring how operating systems, networks, and databases shape the architecture of modern cloud software.
+I build distributed systems, tinker with OS internals, and experiment with AI agents that automate developer workflows.  
+Currently exploring how operating systems, networks, databases, and autonomous agents shape modern cloud software.
 
 ---
 
@@ -23,20 +23,27 @@ Currently exploring how operating systems, networks, and databases shape the arc
 
 ---
 
-### 🕒 Lifetime Coding Time
+### 🧭 Lifetime Coding Time
 
 [![wakatime](https://wakatime.com/badge/user/Haolong.svg)](https://wakatime.com/@Haolong)
 
 ---
 
+### 📈 Optional: WakaTime language chart
+If you prefer a visual language usage chart, use one of these generators and embed the image here. Example tools:
+- `anmol098/waka-readme-stats`
+- `athul/waka-readme`
+
+---
+
 ### 💡 Currently learning
-- Kubernetes & Knative for scalable backend deployment  
-- Advanced systems design & distributed coordination  
-- Frontend integration with real-time backends  
+- Kubernetes, Knative & production autoscaling  
+- Advanced systems design and distributed coordination  
+- Autonomous AI agents for developer tooling and workflow automation
 
 ---
 
 ### 🌐 Connect
-[LinkedIn](https://linkedin.com) · [Portfolio (soon)](#) · [GitHub](https://github.com/HaolongChen)
+[LinkedIn](https://kedin.com/in/haolong-chen-8b448b2b5/) · [GitHub](https://github.com/HaolongChen) · Portfolio (coming soon)
 
 ---
