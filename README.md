@@ -30,14 +30,19 @@ Currently exploring how operating systems, networks, databases, and autonomous a
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 02 November 2025 - To: 09 November 2025
+```typescript
+From: 21 October 2024 - To: 09 November 2025
 
-TypeScript        8 hrs 54 mins   ███████████████████░░░░░░   76.61 %
-Docker            36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-JSON              26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Other             26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Bash              25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Total Time: 490 hrs 16 mins
+
+JavaScript        155 hrs 53 mins ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.57 %
+C                 75 hrs 19 mins  ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.26 %
+C++               72 hrs 39 mins  ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.72 %
+Java              61 hrs 9 mins   ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.39 %
+TypeScript        34 hrs 35 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.01 %
+Markdown          12 hrs 29 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.53 %
+Bash              11 hrs 44 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.38 %
+Docker            10 hrs 15 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.08 %
 ```
 
 <!--END_SECTION:waka-->
