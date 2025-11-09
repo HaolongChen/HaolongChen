@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haolong%20Chen&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Systems%20Architect%20%7C%20AI%20Engineer&descSize=20&descAlignY=55" />
 
 <!-- Animated typing intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=70&lines=🚀+Building+Distributed+Systems+at+Scale;🤖+Engineering+AI+Agents+for+Developers;☁️+Designing+Cloud-Native+Architectures;🌟+Contributing+to+Open+Source+Daily" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=70&lines=🚀+Building+Distributed+Systems+at+Scale;🤖+Engineering+AI+Agents+for+Developers;☁️+Designing+Cloud-Native+Architectures;🌟+Contributing+to+Open+Source+Daily)](https://git.io/typing-svg)
 
 <!-- Badges with metrics -->
 <p>
