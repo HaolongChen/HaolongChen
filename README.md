@@ -146,7 +146,7 @@ Docker            10 hrs 15 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haolong_Chen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haolong-chen-8b448b2b5/)
 [![GitHub](https://img.shields.io/badge/GitHub-HaolongChen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaolongChen)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chl123.chenhaolong@gmail.com)
 
 </div>
 
