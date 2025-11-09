@@ -257,11 +257,6 @@ Docker            10 hrs 15 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Haolong&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8&custom_title=Weekly+Coding+Breakdown" alt="WakaTime Stats" />
 
-### 📅 Commit Patterns
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-time?username=HaolongChen&theme=tokyonight" alt="Commit Time" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaolongChen&theme=tokyonight" alt="Most Used Language" width="48%"/>
-
 ### 🔥 Contribution Heatmap
 
 <img src="https://ghchart.rshah.org/58A6FF/HaolongChen" alt="Contribution Chart" width="90%"/>
