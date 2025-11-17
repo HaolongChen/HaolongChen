@@ -115,7 +115,7 @@ class Developer {
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 21 October 2024 - To: 15 November 2025
+From: 21 October 2024 - To: 16 November 2025
 
 Total Time: 498 hrs 4 mins
 
