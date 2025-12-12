@@ -69,7 +69,7 @@ class Developer {
       'CS144 - Computer Networking (Stanford)',
     ],
     certifications: [
-      'Amateur 6 Dan - Sudoku (China National Championship 2018)',
+      'Sudoku Amateur 6 Dan (China National Championship, 2018)',
     ],
   };
 
@@ -133,7 +133,7 @@ class Developer {
 
 ### 🌟 My Story
 
-Growing up in China's exam-oriented education system, I began studying university-level computer science independently while still in school. What teachers saw as distraction, I knew was my path. This experience shaped my core belief: **knowledge is earned through reasoning, creation, and persistence—not permission**.
+Growing up in China's exam-oriented education system, I began studying university-level computer science independently while still in school. What teachers saw as a distraction, I knew was my path. This experience shaped my core belief: **knowledge is earned through reasoning, creation, and persistence—not permission**.
 
 At age 11, I competed in the China National Sudoku Championship, earning Amateur 6 Dan certification and joining the national reserve team. This early achievement taught me pattern recognition, systematic problem-solving, and sustained cognitive focus—skills that translate directly to systems engineering.
 
