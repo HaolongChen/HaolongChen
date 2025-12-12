@@ -34,8 +34,9 @@
 class Developer {
   name: string = 'Haolong Chen';
   pronouns: string = 'he/him';
-  location: string = '🌍 Earth';
-  timezone: string = 'Building the future, one commit at a time';
+  location: string = '📍 Toronto, Canada';
+  origin: string = '🇨🇳 Born in Jiangmen, China';
+  timezone: string = 'EST (UTC-5)';
 
   roles: string[] = [
     'Backend Developer',
@@ -56,6 +57,22 @@ class Developer {
     languages: ['Java', 'TypeScript', 'C/C++', 'Python', 'Go'],
   };
 
+  education: {
+    selfTaught: string[];
+    certifications: string[];
+  } = {
+    selfTaught: [
+      'CS61A - Structure and Interpretation of Computer Programs',
+      'CS61B - Data Structures',
+      'CS61C - Computer Architecture',
+      'MIT 6.S081 - Operating Systems (xv6)',
+      'CS144 - Computer Networking (Stanford)',
+    ],
+    certifications: [
+      'Amateur 6 Dan - Sudoku (China National Championship 2018)',
+    ],
+  };
+
   currentMission: string[] = [
     '🎯 Architecting scalable distributed systems',
     '🤖 Building autonomous AI developer agents',
@@ -63,14 +80,20 @@ class Developer {
     '🌟 Contributing to impactful open source',
   ];
 
-  philosophy: string = 'Build systems that scale, learn every day 🚀';
+  philosophy: string = 'Software is applied philosophy: logic must be reproducible, transparent, and useful beyond the creator';
+
+  achievements: string[] = [
+    '🏆 China National Sudoku Reserve Team Member (Age 11)',
+    '🎓 Self-directed learner of university-level CS courses',
+    '💡 Treats programming as a moral craft, not just code',
+  ];
 
   getMotivation(): string {
-    return 'Turning complex problems into elegant solutions!';
+    return 'Building durable systems that outlast trends and expand human knowledge';
   }
 
   lifeBalance(): string {
-    return 'Code 💻 | Coffee ☕ | Learn 📚 | Repeat 🔄';
+    return 'Code 💻 | Coffee ☕ | Learn 📚 | Create 🔨 | Repeat 🔄';
   }
 }
 ```
@@ -105,6 +128,18 @@ class Developer {
 </td>
 </tr>
 </table>
+
+---
+
+### 🌟 My Story
+
+Growing up in China's exam-oriented education system, I began studying university-level computer science independently while still in school. What teachers saw as distraction, I knew was my path. This experience shaped my core belief: **knowledge is earned through reasoning, creation, and persistence—not permission**.
+
+At age 11, I competed in the China National Sudoku Championship, earning Amateur 6 Dan certification and joining the national reserve team. This early achievement taught me pattern recognition, systematic problem-solving, and sustained cognitive focus—skills that translate directly to systems engineering.
+
+Moving to Canada opened new doors to project-based learning and intellectual freedom. I completed rigorous university-level courses on my own (CS61A, CS61B, CS61C, MIT 6.S081, CS144) because I believe in mastery through action, not credentials. To me, software engineering is a moral craft: logic must be **reproducible, transparent, and useful** beyond the creator.
+
+I don't chase trends. I build systems designed to last, learn, and empower others.
 
 ---
 
