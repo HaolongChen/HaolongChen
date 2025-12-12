@@ -181,7 +181,7 @@ Docker            10 hrs 15 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaolongChen&theme=tokyonight" alt="Most Commit Language"/>
 </a>
 <a href="https://github.com/HaolongChen">
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaolongChen&theme=tokyonight" alt="stats"/>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaolongChen&theme=tokyonight" alt="stats"/>
 </a>
 </div>
 
