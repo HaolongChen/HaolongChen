@@ -397,8 +397,20 @@ Collaboration on Open Source • Technical Discussions • Job Opportunities •
 
 ### 🌟 Featured Projects & Contributions
 
-<a href="https://github.com/HaolongChen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaolongChen&repo=MindForgeServer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Profile Repo" />
+<a href="https://github.com/HaolongChen/MindForgeServer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaolongChen&repo=MindForgeServer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="MindForgeServer" />
+</a>
+<a href="https://github.com/HaolongChen/DeepResearchAgent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaolongChen&repo=DeepResearchAgent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="DeepResearchAgent" />
+</a>
+
+<br/>
+
+<a href="https://github.com/HaolongChen/AI-Agent-Evaluation-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaolongChen&repo=AI-Agent-Evaluation-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="AI-Agent-Evaluation-System" />
+</a>
+<a href="https://github.com/HaolongChen/TrendRadar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaolongChen&repo=TrendRadar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="TrendRadar" />
 </a>
 
 <br/><br/>
