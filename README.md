@@ -428,7 +428,7 @@ Collaboration on Open Source • Technical Discussions • Job Opportunities •
 
 ### 🌟 Featured Projects & Contributions
 
-<a href="https://github.com/HaolongChen/MindForgeServer">
+<a href="https://github.com/MindForge-AdventureX2025/MindForgeServer">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HaolongChen&repo=MindForgeServer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="MindForgeServer" />
 </a>
 <a href="https://github.com/HaolongChen/DeepResearchAgent">
