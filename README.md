@@ -80,7 +80,8 @@ class Developer {
     '🌟 Contributing to impactful open source',
   ];
 
-  philosophy: string = 'Software is applied philosophy: logic must be reproducible, transparent, and useful beyond the creator';
+  philosophy: string =
+    'Software is applied philosophy: logic must be reproducible, transparent, and useful beyond the creator';
 
   achievements: string[] = [
     '🏆 China National Sudoku Reserve Team Member (Age 11)',
@@ -180,10 +181,10 @@ Docker            10 hrs 15 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- Main stats row -->
 <a href="https://github.com/HaolongChen">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HaolongChen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&custom_title=GitHub+Statistics" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HaolongChen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub+Statistics" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/HaolongChen">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=HaolongChen&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Contribution Streak"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HaolongChen&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8" alt="Most Used Languages"/>
 </a>
 
 <!-- Language and activity row -->
@@ -191,10 +192,10 @@ Docker            10 hrs 15 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <br/><br/>
 
 <a href="https://github.com/HaolongChen">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaolongChen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&include_all_commits=true&count_private=true&hide=html,css,scss&custom_title=Most+Used+Languages" alt="Language Stats"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HaolongChen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&include_all_commits=true&count_private=true&hide=html,css,scss&custom_title=Most+Used+Languages" alt="Language Stats"/>
 </a>
 <a href="https://github.com/HaolongChen">
-  <img height="170em" src="https://github-readme-activity-graph.vercel.app/graph?username=HaolongChen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&area_color=58A6FF&title_color=58A6FF&custom_title=Contribution+Activity+Graph" alt="Activity Graph"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=HaolongChen&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9" alt="Contribution Streak"/>
 </a>
 
 <!-- Additional metrics -->
@@ -205,18 +206,9 @@ Docker            10 hrs 15 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <br/>
 
-<!-- Productive time and commit time graphs -->
+<!-- Productive time and stats row -->
 <a href="https://github.com/HaolongChen">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaolongChen&theme=tokyonight&utcOffset=8" alt="Productive Time"/>
-</a>
-<a href="https://github.com/HaolongChen">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaolongChen&theme=tokyonight" alt="Repos Per Language"/>
-</a>
-<a href="https://github.com/HaolongChen">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaolongChen&theme=tokyonight" alt="Most Commit Language"/>
-</a>
-<a href="https://github.com/HaolongChen">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaolongChen&theme=tokyonight" alt="stats"/>
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HaolongChen&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css" alt="Language Distribution"/>
 </a>
 </div>
 
@@ -289,11 +281,15 @@ Docker            10 hrs 15 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ### 🕐 Coding Habits & Productivity
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Haolong&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8&custom_title=Weekly+Coding+Breakdown" alt="WakaTime Stats" />
+<a href="https://wakatime.com/@Haolong">
+  <img src="https://wakatime.com/badge/user/6eec0dc4-d5bb-4574-b665-a3493c5c3663.svg?style=for-the-badge" alt="Total Coding Time"/>
+</a>
 
 ### 🔥 Contribution Heatmap
 
-<img src="https://ghchart.rshah.org/58A6FF/HaolongChen" alt="Contribution Chart" width="90%"/>
+<a href="https://github.com/HaolongChen">
+  <img src="https://ghchart.rshah.org/58A6FF/HaolongChen" alt="GitHub Contribution Chart" width="90%"/>
+</a>
 
 </div>
 
@@ -303,7 +299,7 @@ Docker            10 hrs 15 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HaolongChen&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaolongChen&theme=tokyonight" alt="GitHub Trophies" width="100%"/>
 
 ### 🎖️ Achievement Highlights
 
@@ -433,19 +429,19 @@ Collaboration on Open Source • Technical Discussions • Job Opportunities •
 ### 🌟 Featured Projects & Contributions
 
 <a href="https://github.com/HaolongChen/MindForgeServer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaolongChen&repo=MindForgeServer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="MindForgeServer" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HaolongChen&repo=MindForgeServer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="MindForgeServer" />
 </a>
 <a href="https://github.com/HaolongChen/DeepResearchAgent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaolongChen&repo=DeepResearchAgent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="DeepResearchAgent" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HaolongChen&repo=DeepResearchAgent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="DeepResearchAgent" />
 </a>
 
 <br/>
 
 <a href="https://github.com/HaolongChen/AI-Agent-Evaluation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaolongChen&repo=AI-Agent-Evaluation-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="AI-Agent-Evaluation-System" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HaolongChen&repo=AI-Agent-Evaluation-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="AI-Agent-Evaluation-System" />
 </a>
 <a href="https://github.com/HaolongChen/TrendRadar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaolongChen&repo=TrendRadar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="TrendRadar" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HaolongChen&repo=TrendRadar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="TrendRadar" />
 </a>
 
 <br/><br/>
