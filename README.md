@@ -151,7 +151,7 @@ I don't chase trends. I build systems designed to last, learn, and empower other
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 21 October 2024 - To: 26 December 2025
+From: 21 October 2024 - To: 27 December 2025
 
 Total Time: 564 hrs 14 mins
 
