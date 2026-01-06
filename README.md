@@ -10,7 +10,7 @@
 <!-- Badges with metrics -->
 <p>
   <a href="https://wakatime.com/@Haolong"><img src="https://wakatime.com/badge/user/6eec0dc4-d5bb-4574-b665-a3493c5c3663.svg?style=for-the-badge" alt="Total Coding Time"/></a>
-  <a href="https://linkedin.com/in/haolong-chen-8b448b2b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/haolong-c-8b448b2b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/HaolongChen?tab=followers"><img src="https://img.shields.io/github/followers/HaolongChen?label=Followers&style=for-the-badge&logo=github&color=181717&labelColor=black" alt="Followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=HaolongChen&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
   <a href="https://github.com/HaolongChen?tab=stars"><img src="https://img.shields.io/github/stars/HaolongChen?style=for-the-badge&logo=github&color=yellow&labelColor=black" alt="Stars"/></a>
@@ -27,77 +27,6 @@
 </div>
 
 <br/>
-
-## 🚀 About Me
-
-```typescript
-class Developer {
-  name: string = 'Haolong Chen';
-  pronouns: string = 'he/him';
-  location: string = '📍 Toronto, Canada';
-  origin: string = '🇨🇳 Born in Jiangmen, China';
-  timezone: string = 'EST (UTC-5)';
-
-  roles: string[] = [
-    'Backend Developer',
-    'Systems Architect',
-    'AI Agent Engineer',
-    'Cloud Solutions Designer',
-  ];
-
-  expertise: {
-    distributed: string[];
-    cloud: string[];
-    ai: string[];
-    languages: string[];
-  } = {
-    distributed: ['Microservices', 'Event-Driven', 'CQRS', 'Saga Pattern'],
-    cloud: ['Kubernetes', 'Docker', 'AWS', 'Azure', 'Serverless'],
-    ai: ['LangChain', 'AI Agents', 'RAG', 'Prompt Engineering'],
-    languages: ['Java', 'TypeScript', 'C/C++', 'Python', 'Go'],
-  };
-
-  education: {
-    selfTaught: string[];
-    certifications: string[];
-  } = {
-    selfTaught: [
-      'CS61A - Structure and Interpretation of Computer Programs',
-      'CS61B - Data Structures',
-      'CS61C - Computer Architecture',
-      'MIT 6.S081 - Operating Systems (xv6)',
-      'CS144 - Computer Networking (Stanford)',
-    ],
-    certifications: [
-      'Sudoku Amateur 6 Dan (China National Championship, 2018)',
-    ],
-  };
-
-  currentMission: string[] = [
-    '🎯 Architecting scalable distributed systems',
-    '🤖 Building autonomous AI developer agents',
-    '☁️ Mastering cloud-native technologies',
-    '🌟 Contributing to impactful open source',
-  ];
-
-  philosophy: string =
-    'Software is applied philosophy: logic must be reproducible, transparent, and useful beyond the creator';
-
-  achievements: string[] = [
-    '🏆 China National Sudoku Reserve Team Member (Age 11)',
-    '🎓 Self-directed learner of university-level CS courses',
-    '💡 Treats programming as a moral craft, not just code',
-  ];
-
-  getMotivation(): string {
-    return 'Building durable systems that outlast trends and expand human knowledge';
-  }
-
-  lifeBalance(): string {
-    return 'Code 💻 | Coffee ☕ | Learn 📚 | Create 🔨 | Repeat 🔄';
-  }
-}
-```
 
 <br clear="right"/>
 
@@ -129,20 +58,6 @@ class Developer {
 </td>
 </tr>
 </table>
-
----
-
-### 🌟 My Story
-
-Growing up in China's exam-oriented education system, I began studying university-level computer science independently while still in school. What teachers saw as a distraction, I knew was my path. This experience shaped my core belief: **knowledge is earned through reasoning, creation, and persistence—not permission**.
-
-At age 11, I competed in the China National Sudoku Championship, earning Amateur 6 Dan certification and joining the national reserve team. This early achievement taught me pattern recognition, systematic problem-solving, and sustained cognitive focus—skills that translate directly to systems engineering.
-
-Moving to Canada opened new doors to project-based learning and intellectual freedom. I completed rigorous university-level courses on my own (CS61A, CS61B, CS61C, MIT 6.S081, CS144) because I believe in mastery through action, not credentials. To me, software engineering is a moral craft: logic must be **reproducible, transparent, and useful** beyond the creator.
-
-I don't chase trends. I build systems designed to last, learn, and empower others.
-
----
 
 ## 📊 All-Time Coding Stats
 
@@ -378,7 +293,7 @@ Prisma            11 hrs 25 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <div align="center">
 
-<a href="https://linkedin.com/in/haolong-chen-8b448b2b5/">
+<a href="https://linkedin.com/in/haolong-c-8b448b2b5/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect_for_Opportunities-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/HaolongChen">
