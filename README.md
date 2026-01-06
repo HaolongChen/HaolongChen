@@ -308,9 +308,6 @@ Prisma            11 hrs 25 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <br/><br/>
 
-**💬 Open to:**  
-Collaboration on Open Source • Technical Discussions • Job Opportunities • Mentorship
-
 </div>
 
 ---
